@@ -1,5 +1,5 @@
 Hier kommen die Dateinamen rein
 
 *.pdf
-.ipynb_checkpoints
-.DS_Store
+*.ipynb_checkpoints
+*.DS_Store
