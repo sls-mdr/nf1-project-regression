@@ -1,4 +1,4 @@
-# King County Housing Price Prediction
+# King County Housing Price Prediction 
 
 in this repository you can find three jupyter notebook, wich document my first neue fische DS project. We where told to analyze the King County Real Estate Market by a dataset with 21.597 entries and 21 columns. First I made an EDA and to get an overview of the data and clean it. Next step was (also in the EDA file) to add a new feature and filter the data by my own params and ideas.
 ## EDA
